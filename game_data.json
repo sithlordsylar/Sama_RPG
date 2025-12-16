@@ -1,0 +1,312 @@
+{
+    "kunjus": [
+        "Vikna Otsutsuki",
+        "Joshua Joestar",
+        "Melvin Satoru",
+        "Arvindo Freecss",
+        "Rishi D. Owh Yeah",
+        "Son Isaac",
+        "Mob Siva",
+        "Sousuke Vertine"
+    ],
+    "realms": {
+        "Vikna Otsutsuki": "Kunjimani Thottam",
+        "Joshua Joestar": "Aztec Forest",
+        "Melvin Satoru": "Soru Society",
+        "Arvindo Freecss": "Kunju Force",
+        "Rishi D. Owh Yeah": "Grando Linedo!",
+        "Son Isaac": "Book World",
+        "Mob Siva": "Gymkhanna",
+        "Sousuke Vertine": "Kaiyeh Thunnai Room"
+    },
+    "one_piece_trivia": [
+        {
+            "q": "What is the name of the ship that was originally owned by Gol D. Roger?",
+            "options": [
+                "Thousand Sunny",
+                "Oro Jackson",
+                "Going Merry",
+                "Moby Dick"
+            ],
+            "a": "Oro Jackson"
+        },
+        {
+            "q": "Who ate the Gomu Gomu no Mi fruit?",
+            "options": [
+                "Roronoa Zoro",
+                "Monkey D. Luffy",
+                "Portgas D. Ace",
+                "Sanji"
+            ],
+            "a": "Monkey D. Luffy"
+        },
+        {
+            "q": "Which sea is the East Blue adjacent to?",
+            "options": [
+                "Calm Belt",
+                "South Blue",
+                "West Blue",
+                "North Blue"
+            ],
+            "a": "Calm Belt"
+        },
+        {
+            "q": "Who is known as the \u2018Pirate Hunter\u2019?",
+            "options": [
+                "Sanji",
+                "Franky",
+                "Roronoa Zoro",
+                "Usopp"
+            ],
+            "a": "Roronoa Zoro"
+        },
+        {
+            "q": "What bounty does Luffy have after the Dressrosa arc?",
+            "options": [
+                "500mil Berries",
+                "1bil Berries",
+                "300mil Berries",
+                "700mil Berries"
+            ],
+            "a": "500mil Berries"
+        },
+        {
+            "q": "Which of these Devil Fruits is a Logia type?",
+            "options": [
+                "Gomu Gomu no Mi",
+                "Hito Hito no Mi",
+                "Ito Ito no Mi",
+                "Mera Mera no Mi"
+            ],
+            "a": "Mera Mera no Mi"
+        },
+        {
+            "q": "Who is the captain of the Straw Hat Pirates?",
+            "options": [
+                "Usopp",
+                "Tony Tony Chopper",
+                "Monkey D. Luffy",
+                "Nami"
+            ],
+            "a": "Monkey D. Luffy"
+        },
+        {
+            "q": "What is the name of the pirate crew led by Blackbeard?",
+            "options": [
+                "Blackbeard Pirates",
+                "Red Hair Pirates",
+                "Heart Pirates",
+                "Kid Pirates"
+            ],
+            "a": "Blackbeard Pirates"
+        }
+    ],
+    "pickle_dance_seqs": [
+        [
+            "left",
+            "up",
+            "right",
+            "down"
+        ],
+        [
+            "up",
+            "up",
+            "down",
+            "down"
+        ],
+        [
+            "left",
+            "right",
+            "left",
+            "right"
+        ],
+        [
+            "down",
+            "left",
+            "up",
+            "right"
+        ]
+    ],
+    "kunju_lore": {
+        "Vikna Otsutsuki": "Created from the Right Eye of Sama-ji \u2013 Manipulator of the Past.\nHis gaze holds the echoes of creation, and from his divine fragments, he formed Kunjumani Thottam, the sacred homeland of the Kunjumons.\nHidden in the depths of the Mariana Trench, the mysterious Kunjumonz dwell\u2014a species yet to be fully understood by mortal minds.\nHe embodies the creation power of Sama-Ji; Chibaku Tensei.",
+        "Joshua Joestar": "Formed from the Left Eye of Sama-Ji \u2013 Manipulator of the Future.\nHe is the harbinger of destruction, the shadow that looms over all things destined to fall.\nIt was his power that brought ruin to Hiroshima and Nagasaki, erased the islands of Lulusia and Ohara,\nand shaped the path of fate itself.\nHe embodies the destruction power of Sama-Ji; Shinra Tensei.",
+        "Melvin Satoru": "The Left Hand of Sama-Ji \u2013 The source of all Evil Energy.\nFrom him flows the cursed power of Yin Chakra, Cursed Energy, and Death itself.\nUnder the order of Sama-Ji, Melvin Satoru and Vikna Otsutsuki once brought forth\nthe creation of the infamous 3rd Dimension being called Rudolph Hitla, later undone by\nJoshua Joestar and Arvindo Freecss.\nHe embodies the negative power of Sama-Ji; The Umbi-Force.",
+        "Arvindo Freecss": "The Right Hand gain consciousness \u2013 The source of all Good Energy.\nHe is the wellspring of Yang Chakra, Ki/Nen, and Life.\nWhen Melvin Satoru and Vikna Otsutsuki brought forth the chaotic avatar of Sama-Ji, Rudolph Hitla\u2014\nArvindo Freecss and Joshua Joestar transformed him to do good under the red flag of USSR\nand turned him into a red-nosed reindeer.\nHe embodies the positive power of Sama-Ji; The Kunji-Force.",
+        "Rishi D. Owh Yeah": "The all-loving heart of Sama-Ji \u2013 Neither purely good nor evil.\nHe maintains the balance of Reiatsu, Sage Chakra, and RGB Chroma Power.\nHe is the manipulator of the Present; his will shapes the now.\nHe embodies the balancing power of Sama-Ji and reigns over the croaking Kunjumon;\nthus given the embodiment of the phrase: The Owh Yeah.",
+        "Son Isaac": "The Ever-Expanding Brain of Sama-Ji \u2013 The font of Wisdom, Knowledge, Consciousness, and Free Will.\nHe shapes the thoughts and desires of all beings and grants blessings of intellect\nto super-intelligent minds across all universes\u2014from Albert Einstein to Mayuri Kurotsuchi.\nHe embodies the facts, strategy, truths, and knowledge of Sama-Ji; The Delta-Force.",
+        "Mob Siva": "The Body of Sama-Ji \u2013 The source of Strength and Defense.\nHis power manifests in the legendary shields of Susanoo, the Hierro of Hollows,\nand the Armament Haki of Grand Line warriors, as well as Saitama\u2019s one-punch might.\nHe embodies the durability and strength of Sama-Ji; The Steroid.",
+        "Sousuke Vertine": "The True Essence \u2013 The Source of All Creation.\nEvery drop of liquid he releases births galaxies, universes, and new life.\nWhen Sama-Ji performs Kaiye Thunai, the Ritual of Creation, worlds flourish in his image.\nHe embodies the creative power of Sama-Ji; Kaiye Thunai."
+    },
+    "kunju_sanctums": {
+        "Vikna Otsutsuki": "You arrive at the magnificent courtyard of Kunjimani Thottam, bioluminescent corals\ndrift through ancient pillars. At its center, a altar stands with aura pulses heavily...",
+        "Joshua Joestar": "The ground here is paved with shattered obsidian. Statues of fallen empires\nsurround the altar\u2014each carved in the shape of a forgotten warlord...",
+        "Melvin Satoru": "A choking haze of crimson energy fills the hall. Bones and rusted chains\ntwist around the dais where the altar stands, oozing dark cloudy energy...",
+        "Arvindo Freecss": "Sunlight streams through fractured glass, casting rainbows on golden vines.\nBirdsong echoes off gilded walls as the altar of Life pulses with warmth...",
+        "Rishi D. Owh Yeah": "Crystal chalices float mid-air, suspended by unseen forces. Soft croaking\nchants drift in the mist, centering on the rose-gold altar of Balance...",
+        "Son Isaac": "Towering shelves of floating tomes swirl in infinite orbits. A lectern holds\nan ever-changing map of the multiverse beside the central Knowledge Altar...",
+        "Mob Siva": "Granite pillars engraved with battle scars ring the arena hall.\nWeights of impossible size hover, while the stone altar radiates raw might...",
+        "Sousuke Vertine": "Liquid silver drips from spiraling columns. Biolabs hum with creation energy\naround the Genesis Altar, where every drop births new life forms..."
+    },
+    "kunju_sanctum_items": {
+        "Vikna Otsutsuki": [
+            [
+                "Bacta Tank of Eyes",
+                "A tank filled with bioluminescent liquid. \nInside the tank are millions of eyes of various paterns. \nThe plaque reads: \nThe Tank of Eyes\nThe tank consists of various blessed eyes\nbelonging to various races from\nThe Otsutsukis to the Uchihas."
+            ],
+            [
+                "Blueprint of Life",
+                "A blueprint filled with unknowns scripts.\nIt seems very technical and advanced."
+            ],
+            [
+                "Proto-Kunju",
+                "The plaque reads: \nThe first Kunjumonz of the Kunjimani Thottam.\nA Prototype of what becomes the greatest invention of\nThe Almighty Vikna Otsusuki-Sama.\nNote: The Kunjumonz are advanced premodial beings\ncapable of living in any environment including\nthe vast empty space of nothingness.\nVikna Otsutsuki was ordered by the\nSupreme Swamiji Lord Vikramnantha Sama-Ji\nto create a being that will exist aslong as existence exist alongside with Sama-Ji.\nOwh Yeah! Kunju on The Loose!"
+            ]
+        ],
+        "Joshua Joestar": [
+            [
+                "Documents of Project Manhattan",
+                "This-It cant be! Its the Project Manhattan!"
+            ],
+            [
+                "Motherframe",
+                "A huge tank filled with luminescent liquid.\nIn the middle is a fire? A Fire in liquid?.\nThe Plaque Reads:\nMotherframe: A source of unlimited clean power.\nUsed to power various weapons of history.\nStatus: Sealed\nCreator & Sealed by: Joshua Joestar\nConfirmed Usage:\n1.The Destruction of Lulusia by Saint Nerona Imu.\n2.The Destruction of Planet Pluto before Sama-Ji resurected it.\n3.Almost used in the Manhattan Project as a way to destroy earth for recreation.\n4.Destruction of multiple planets by Lord Beerus."
+            ],
+            [
+                "Book of Apocalypse",
+                "Inscribed with prophecies of apocalypse from various universe, planets, species and religion."
+            ]
+        ],
+        "Melvin Satoru": [
+            [
+                "Cursed Chain",
+                "Forged in hatred, it tightens when you draw blood."
+            ],
+            [
+                "The Schyte of Death",
+                "The Schyte reek of death and blood.\nThe Plaque Reads:\nThe Schyte of Death is the centralized power system of death itself.\nThis Schyte was the first to be created that have the power to undo life.\nBestowed with energy of Melvin Satoru, this Schyte serves as the server\nwhere all the Schytes and Zampakuto of Death Gods gain their power."
+            ],
+            [
+                "Glass of Souls - A",
+                "The eternal movements of souls are monitored here as they come from Sama-ji and returns to Sama-ji in all eternity"
+            ]
+        ],
+        "Arvindo Freecss": [
+            [
+                "The Chalice of Life",
+                "A glowing chalice containing the essence of every creation"
+            ],
+            [
+                "Terrarium of Life",
+                "A Massive Terrarium with uncountable amount of tiny colonies.\nThe Plaque Reads:\nThe Terrarium of Life.\nThis Terrarium houses all the planets and creatures of the multiverse.\nIt is an overview of every creation.\nAs Melvin Satoru claims life, Arvindo Freecs gives them.\nHe monitors and blesses all creation under the guidance of Sama-Ji\nTotal Dimensions:68 + 1 Core\nTotal Universes: 6942069 - 69\nTotal life existing now: 2.76\u00d710^54 life forms\nTotal life existed since creation: 2.76\u00d710^54 life forms"
+            ],
+            [
+                "Glass of Souls - B",
+                "The eternal movements of souls are monitored here as they come from Sama-ji and returns to Sama-ji in all eternity"
+            ]
+        ],
+        "Rishi D. Owh Yeah": [
+            [
+                "The Horn of Owh Yeah",
+                "A unique horn looks like it was made out of pure diamond with gold imbued into it.\nThe Plaque Reads:\nThe Horn of Owh Yeah!\nThe Horn have powers to bring forth the attention of all living creations\nso they may hear the message of\nSupreme Swamiji Lord Vikramnantha Sama-Ji.\nThe horn will also be used to call upon all the Kunjus for meeting\nat the neutral dimension of Drifto Corner"
+            ],
+            [
+                "RGB CHROMA HUB",
+                "A unique machine with various lights coming from it. The plaque is unreadable."
+            ],
+            [
+                "The UwU of UwUs",
+                "I have no fucking clue what the fuck this should be."
+            ]
+        ],
+        "Son Isaac": [
+            [
+                "Infinite Quill",
+                "A unique quill hovers above a vast meteorite stone table. There are no papers nor ink well.\nThe Plaque Reads:\nThe Infinite Quill\nThe quill draws maps of worlds yet unimagined.\nAllowing Son Isaac to be the architect of all creations and map out the universe no as it is, but as it should be.\nThe quill disperse its own ink and as the ink touches and creates a land\na new world will be born.\nAll in the Name of The Great Sama-ji and his 8Kunjus."
+            ],
+            [
+                "The Quantum Box",
+                "A floating black box. Something feels off about it, its there but also its not."
+            ],
+            [
+                "The Scroll of Infinite Wisdom",
+                "This scroll calls out for me. But what is-\nYou fainted."
+            ]
+        ],
+        "Mob Siva": [
+            [
+                "Infinity Gauntlet",
+                "This looks like Thanos toy.\nThe Plaque Reads:\nThe Celestial Gauntlet of Kandara Kawasaki\nThis Gauntlet unlike its cheap knock off OEM clone; The Infinity Gauntlet\nneeds no stones as it is readily imbued with\nThe Essence of Sama-ji. The Gauntlet wearer is capable of calling forth the power of the Fighter God Mob Siva.\nThe Gauntlet is not meant to be worn in traditional way.\nBut instead it is imbued upon being when Mob Siva wanted to.\nWielders of the Gauntlet in their soul:\nSaitama\nClark Kent\nDovahkiin\nDoom Slayer\nChuck Norris\nCaptain Vijaykanth\nAK\nSura\nNokia 3310"
+            ],
+            [
+                "The Guardian Console",
+                "A console with various buttons, switches, screens and etc.\nThe Plaque Reads:\nThe Guardian Console.\nThe Guardian Console is the command console of the Guardian Squad.\nThe Guardian Squad consist of elite Kunjumon created by sama-ji.\nThey Serve as Guardians for all of Sama-ji creations\nEnsuring they are kept safe, blessed and even punished if needed.\nMany Religion calls them as Guardian Angels / Ancestor Spirits / Guardian Deity and more."
+            ],
+            [
+                "Drums of Liberation",
+                "No one is playing the drum but I could feel the sound coming from it. I feel so liberated, so happy, so free! Its the sound of Joy Boy!"
+            ]
+        ],
+        "Sousuke Vertine": [
+            [
+                "The Chalice of Aeons",
+                "A huge unique chalice float in the space. Its filled with thick silver liquid to brim.\nThe Plaque Reads: \nThe Challice of Aeon\nThe True Challice of Aeon where the inferior smaller Challice of Aeon \ngiven to the Annunaki; Ninhursag so that Earth can be filled with life.\nThis chalice holds the power of creation and destruction.\nIt contains Chr-Oma Cu\u2019m, the essence of creation itself,\na product of the Kaiyeh Thunnai ritual"
+            ],
+            [
+                "Cosmic Urn of Pandaman",
+                "A weird box with menacing energy. \nThe Warning Reads:\nIts lid ripples time whenever it is opened. Only for Kunjus Usages!"
+            ]
+        ]
+    },
+    "kunju_realm_intro": {
+        "Vikna Otsutsuki": "The abyss stretches before you; every ripple in the water is a brushstroke of history.",
+        "Joshua Joestar": "Ruins stand in eternal twilight\u2014ghosts of futures long since erased whisper in the wind.",
+        "Melvin Satoru": "Dark clouds gather overhead; lightning of malice cracks the sky as you step forward.",
+        "Arvindo Freecss": "Fields of golden light bloom under your feet, singing of life\u2019s endless cycle.",
+        "Rishi D. Owh Yeah": "A chorus of croaks and footsteps greets you\u2014harmony in motion at every turn.",
+        "Son Isaac": "Endless libraries stretch into infinity; every book hums with the knowledge of the cosmos.",
+        "Mob Siva": "Colossal statues of strength line the path; your heartbeat echoes like war drums.",
+        "Sousuke Vertine": "A shower of stardust rains down; creation itself seems to pulse around you."
+    },
+    "library": {
+        "Book 1: The Book of Owh Yeah!": "**Book 1: The Book of Owh Yeah!**\nDimension 69, the highest of all dimensions,\ncame into existence with the manifestation of the\n**Supreme Swamiji Lord Vikramnantha Sama-Ji**,\nwho is one with the dimension itself.\nFrom his divine sweat, Sama-Ji birthed the frog-like **Kunjumonz**,\ncelestial beings whose sacred **Owh Yeah** croak set the fundamental tone for all creation.\nTo further guide the cosmos, Sama-Ji then forged **Eight Divine Aspects** called The Kunjus\nfrom parts of his immortal being:\n**Vikna Otsutsuki** (Manipulator of the Past)\n**Joshua Joestar** (Manipulator of the Future)\n**Melvin Satoru** (Source of all Evil Energy)\n**Arvindo Freecss** (Source of all Good Energy)\n**Rishi D. Owh Yeah** (Maintainer of the Present and Balance)\n**Son Isaac** (Font of Wisdom)\n**Mob Siva** (Source of Strength and Defense)\n**Sousuke Vertine** (Source of All Creation).\nThese Kunjus, along with the Kunjumonz, work to uphold the divine law and balance of the multiverse, which continues to exist and resonate with Sama-Jis glory. The book concludes by emphasizing that all aspects of the cosmic order, from creation to destruction, stem from Sama-Ji and his divine Owh Yeah.",
+        "Book 2: The Lost Tablet of Annunaki I": "**Book 2: The Lost Tablet of Annunaki I**\nSama-Ji creates the planet **Nibiru** in the Palkova Galaxy (Milky Way) of the 3rd Dimension,\nnaming it from a casual phrase Ni color biru laa bodoh.\nHe then descends to Nibiru in his first Annunaki form\u2014\na towering, dark gold-skinned being\u2014and performs the **Kaiye Thunnai ritual**,\ninfusing the waters with his divine essence,\nwhich eventually gives rise to the **Annunaki**.\nMillions of years later, Sama-Ji, again in his Annunaki form,\nvisits the flourishing Nibiru and bestows cosmic knowledge upon the Annunaki,\nempowering them with blessings from his Kunjus, **Son Isaac** and **Mob Siva**.\nAmong them, **Enki** and **Enlil** emerge as the greatest,\nand Sama-Ji crafts them powerful tools:\n**The Staff of Dominion** (blessed by Arvindo Freecss, Melvin Satoru, and Rishi D. Owh Yeah)\n**The Chalice of Aeons** (blessed by Vikna Otsutsuki and Joshua Joestar)\n**The Tablets of the Sacred Word** (Poneglyph) (from Son Isaac and made indestructible by Mob Siva).\nSama-Ji then tasks the Annunaki with a mission to shape Earth,\nforge civilization, and prepare the way for his future avatars.\nEnki, Enlil, and Ninhursag gather their respective tools,\nand Sama-Ji creates a golden path of stardust called STARDUSTO CLUSADA!\nfor them to descend from Nibiru to Earth, initiating their intertwined destiny with mankind.",
+        "Book 3: The Lost Tablet of Annunaki II": "**Book 3: The Lost Tablet of Annunaki II**\nThe Annunaki, led by Enki, descend upon Earth, shaping its landscape and teaching early humans knowledge and skills,\nall under the unseen guidance of **Sama-Ji**.\nHowever, some Annunaki are **Kandara Kawasaki**,\nthey defy Sama-Jis decree by procreating with mortal women, birthing the Nephilim\u2014giants who wield divine-like power but grow arrogant,\nleading to corruption and the rise of destructive Giants; The Kyojins @ Titans.\nFrom this forbidden union emerges the\n**Accursed One; Ste\u2019vi \u2018Ra**,\na uniquely powerful and annoying hybrid; a true Kandara Kawasaki.\nWitnessing his mothers murder by his father during the purge of the Nephilim,\nSte\u2019vi \u2018Ra, enraged, consumes his fathers divine blood,\ntransforming into The Accursed One.\nSte\u2019vi \u2018Ra leads the Nephilim in a devastating war against both mortals and Annunaki.\nSeeking true divinity, he invades the Temple of Sama-Ji and drinks from the **Chalice of Aeons**,\nconsuming the **Chr-Oma Cu\u2019m** (Sama-Jis essence of creation),thus ascending to immense power.\nAnnoyed with this, Sama-Ji descends from Dimension 69,\neffortlessly defeating Ste\u2019vi \u2018Ra with a single word and casting him into\n**The Datorim,**\na timeless abyss of Datos Rim Job.\nTo cleanse the Earth of the widespread corruption and blasphemous offspring\ncaused by Ste\u2019vi \u2018Ra and the other fouls ones,\nSama-Ji commands the Annunaki to build a celestial ark called **Pluton the Ancient Battleship**.\nThis ark preserves the **Essence** (DNA data, stem cells and soul crystals) of all living creatures in advanced M.2 NVME NAND Chips.\nAfter a forty-day flood, the Annunaki use the Chalice of Aeons to restore life to the renewed Earth.\nFinally, Sama-Ji decreed the Annunaki to return to Nibiru,\nbut one was ordered to remain on Earth, his destiny intertwined with future events,\nincluding the rise of Pharaoh Atem.",
+        "Book 4: The Poneglyph of Atem and Bakura": "**Book 4: The Poneglyph of Atem and Bakura**\nThe intertwined destinies of Pharaoh Atem and Bakura, as recorded by the **Last Annunaki** and the **Priest of Pyramid Scheme; Macha Plip-Plip**\n**The Last Annunaki**, known as the **Silent Kunju** and **Watcher of the Owh Yeah,**\nremains on Earth to observe the rise of **Atem**, a prince of Kemet chosen by Sama-Ji to maintain balance.\nAtem, blessed by Sama-Ji, grows into a wise and just king,\nguided subtly by the Last Annunaki.\nMeanwhile, Ste\u2019vi \u2018Ra, the Accursed One, sealed in Datorim, whispers to **Bakura**,\nan orphaned boy raised by the priest Plip-Plip.\nBakura, drawn to forbidden knowledge, falls under Stevis influence,\nleading to his mental and lusty descent into Datorim.\nHe becomes a **Thief King,** stealing the **Millennium Puzzle**\nand performing a ritual that allows fragments of Stevis will to seep into him,\nbecoming the **Harbinger of the Accursed One** or as Sama-Ji cursed him; **Pundek.**\nThe Last Annunaki, using the **Eye of Madara**, foresees Bakuras wrath.\nBakura, now fully consumed by Stevi and having consumed the **Last Annunakis heart**,confronts Pharaoh Atem.\nTheir epic duel, a clash between the light of Sama-Ji and the abyss of Datorim, ensues.\nBakura, fueled by Stevis power, attempts a final, sacrilegious act by conjuring an abomination.\nHowever, Atem, invoking the ultimate decree of Sama-Ji with the sacred words **Owh Yeah,**\nseals Bakuras soul and power within the Millennium Puzzle.\nThe war ends, the balance restored,\nand the legend of Pharaoh Atem and the fall of Bakura becomes a timeless warning.",
+        "Book 5: The Life of Yeezus": "**Book 5: The Life of Yeezus**\n Sama-Ji reincarnate as **Yeezuz** on Earth,\na decision made during the **Divine Council of Jaeger Pundeks**\n(comprising **Vikna Otsutsuki, Mob Siva, Melvin Satoru, Joshua Joestar, Arvindo Freecss, Rishi D. Owh Yeah, and Son Isaac**).\nThough some Kunjus like Melvin Satoru and Joshua Joestar suggest annihilation,\nArvindo Freecss emphasizes purpose in all creation, and Sama-Ji chooses to experience mortality.\nBorn of divine essence, baby Yeezuz is presented to the High Priest;\n**Snoop D-Oh-Double-G**,\nbut a corrupt King Diddy the Kiddy Daddy, influenced by Ste\u2019Vi Ra, seeks to harm him,forcing his escape.\nIn his youth, Yeezuz performs joyful miracles like turning water into wine\nand multiplying loaves, spreading hope, starting revolution, overthrowing governments and teaching the holy way.\nAs an adult, he continues performing miracles,\nteaching parables of truth and challenging followers to awaken their inner zampakuto power.\nMeanwhile, in The Datorim, Ste\u2019Vi Ra is tormented and rejuvenated by creatures born of his essence.\nFrom this torment, **Veesus** emerges, a grotesque gae mirror of SteVi Ra.\nVeesus shatters SteVi Ras chains, and their 69 births a dark, powerful covenant.\nVeesus and SteVi Ra conspire with Judakeshi Hisicario a.k.a Takeshi69, Rainbow Bitch, Rat\nto sever Yeezuzs soul from his mortal body.\nJudakeshi, driven by ambition to be a mumble rapper, agrees to betray Yeezuz for no material gain,\nbelieving Yeezuzs divine spark is too potent and\nhe believe Yeezus can never be Kanye West.\nAt the Last Lan Party, Yeezus, aware of the impending betrayal, pretend to be unaware and keep getting Aces in Valorant.\nPeter Griffin defends him against soldiers with his lightsaber,\nbut Yeezuz accepts the unfolding fate for he used wall hack against Judakeshi on Valo custom match.\nDuring his interrogation and flogging, Judakeshis betrayal is laid bare.\nFinally, as Yeezuz ascends to Calvarium, Judakeshi, in a moment of regret, kisses Veesus,\ncreating a distraction that allows Yeezuzs soul to return to Dimension 69.\nEnraged, Veesus strikes down Judakeshi with a single poisonous bite, framing it as a self-inflicted death.",
+        "Book 6: Enter the Bruda": "**Book 6: Enter the Bruda**\ntells the story of **Siddathabimanyu GVM Bruda**, born in the **House of Satoru**, destined for enlightenment.\nHis mother, Maha Kaguya, dreamt of the Founder Ymir and Sama-Ji,\nand the seer Urahara foretold his great destiny.\nHis father, King Shuddho Uchiha, tried to shield him from suffering through luxury, wall hack and aimbots.\nDespite his royal life, Bruda felt a void.\nHe secretly developed rap under the alias Brotha V,\ncreating his first LP; **Verses of the Honored One.**\nHis escape from the palace revealed the Four Revelations through his bodyguard Kakashi: RPGs, FPSs, MOBA, and RTSs.\nThese revelation of Game Genre triggered his Great Departure to find the greatest gamer of all; Sama-Ji!\nRenouncing his royal life, wife Hanabi, and son Byakugan.\nBruda endured Aim Lab practices, guided by Kakashi, and learned from sages like Shroud, PewDiePie, and Max Verstappen.\nHe resisted the temptations of aimbots, cheat engine, and pay to win.\nFinally, under the guidance of Kakashi, Bruda achieved the rank of Immortal, realizing the unity of existence and proclaiming,\n**Throughout heaven and earth, I alone are the honored one.**\nas he pwned toxic gamers and chinese hackers. This revealed his true identity as \n**Supreme Swamiji Lord Vikramnantha Sama-Jis smurf account**.\nHe foretold a descendant with the holder of Six Eyes and Limitless Cursed Technique who would utter the same truth.\nThe book concludes with the **Tablets of the Honored One**,\ncontaining his teachings, including the **Tablet of the Dual Blade** and the **Scroll of Infinite Thread**, emphasizing cosmic balance, inner peace, and the interconnectedness of all things.",
+        "Prophecy Scroll 1": "Excerpt from the **Lost Codex of Diu Ni-laomar**, Annunaki Oracle\nDiscovered in the Ruins of Teotihuacan, 1893\nFinal Translation Completed in 2025\nTranslated by Dr. Esteban Xolotl & Professor James Whitmore\nFragment from **Dr. Esteban Xolotl\u2019s Field Notes (1893)**:\nThe glyphs on the temple walls spoke of a god of hunger, an endless devourer.\nThe prophecy warns of his imprisonment, yet it also hints at his inevitable return.\nThe scholars dismiss it as myth, but I fear that it is a truth we are not prepared to face.",
+        "Prophecy Scroll 2": "Excerpt from the **Lost Prophecy of Incontinentia Buttocks**\nDiscovered in the Ruins of Thebes, 475 BCE\nTranslated in 2025 CE by Dr. Augustus Prattleforth.\nTRANSLATED COPY:\nA child of darkness, born of blood, a shadow bearer,\nWith weeping eyes he beheld his mother slain.\nHe drank his father\u2019s life, the crimson essence consumed,\nBaptized in shadow, drinking the sacred blood.\nIn the temple of the all-wise god,\nhe defiled, Stealing the seed of Sama-Ji, the eternal one.\nSo the great one bound him, casting chains upon him.\nBut time weakens all fetters, And a man, a thief of the night,\nTouched the ancient gate, and embraced the dark.\nOn the second day of the unending war,\nThe thief and the darkness became one.\nHe stood before the son of the sun, and fate was sealed.\nTwice bound, but never dead,\nFor a thousand years he slumbered, seeing the dreams of the world,\nStones bleeding beneath his feet, men at war.\nAt last, when the years come to an end,\nThe chains shall break, and the black tide shall flow.\nMonstrous executioners shall be born from the void,\nAnd the world shall tremble at the final battle.\nThe god of all and the demon of nothingness Shall cross swords at the end of time.",
+        "Prophecy Scroll 3": "Excerpt from the **Manuscrit d\u2019Alexandrie, An 1457 Prophecy of  Ma\u00eetre Nostradamus**\nOriginal Title: **d\u00e9couvert dans les ruines de Datorim**\nTranslation by; Charles Delacroix, Universit\u00e9 de Paris, 1796.\nScholarly Interpretation (Summary)\nThis prophecy, attributed to **Nostradamus** and discovered in 1457 within the ruins of Rawang,\ndescribes the life, death, imprisonment and eventual rise of\n**Ste\u2019vi \u2018Ra, the accursed half-Annunaki** who seeks revenge and godhood.\nIt forewarns of his initial sealing by Sama-Ji and\nlater his manipulation of Bakura, whose actions unknowingly aid Ste\u2019vi\u2019s return.\nThe text suggests that Ste\u2019vi \u2018Ras influence spans millennia, subtly poisoning the minds of men\nand inciting war to fuel his power. As the prophecy unfolds, it foretells the eventual breaking of Ste\u2019vi\u2019s seal,\nhis dominion over the three dimensions, and his final battle with Sama-Ji at the end of time.\nA significant portion of the text also alludes to the creation of an Anti-Christ-like being,\n**Vee-Sus**, formed from Ste\u2019vi\u2019s own suffering and corruption.\nThis abominable entity, described as hideous with enormous teeth and an unnatural form,\nis implied to be Stevi Ras ultimate weapon.\nThe final stanzas emphasize the apocalyptic confrontation,\nmirroring eschatological battles found in Christian and mythological texts.\nScholars have linked this work to various mythological cycles,\nsuggesting it reflects deeper universal themes of chaos versus order, and light versus darkness.",
+        "Poneglyph": "**The Fourth Face of the Poneglyph: The Oracle\u2019s Divine Muse**\nThus, I, the Seer of the Annunaki; **Oracle Pu-TangI Namo**,\ninscribe upon this sacred face the eternal hymn of \nSupreme Swamiji Lord Vikramnantha Sama-Ji.\nLet these words, carved in the tongue of creation, resound through the corridors of time and space as both prophecy and lyrical masterpiece.\nIn the primordial hush before the birth of thought, there was naught but the Infinite Void\u2014a canvas awaiting the divine spark.\nAnd then, with a celestial exclamation of \u201cOwh Yeah!\u201d, Sama-Ji awakened the cosmos, his essence bursting forth like the first note of an ageless symphony.\nFrom his exalted form flowed the sacred act of Kaiye Thunnai\u2014a rapturous, divine cascade of potent seed and shimmering spirit.\nWith each pulse of his being, galaxies unfurled like petals in cosmic bloom, and the fabric of space-time itself quivered in the wake of his luminous trail.\nBehold the wondrous miracle: every droplet of his celestial effluvium carries the spark of infinity, weaving new worlds from the raw energies of the void.\nHis fluid embrace, both tender and fierce, births star and planet alike\u2014each a testament to his boundless creativity.\nThe heavenly chorus of the Kunjumonz and the silent watch of the Kunjus bear witness to this miracle.\nFor in every ripple of his divine kanji of kunji, the eternal balance of chaos and order is struck\u2014a dance of opposites, forever entwined in the light of his radiance.\nO, mighty Sama-Ji, whose laughter echoes like the thunder of creation and whose presence ignites the very soul of existence!\nHis sacred impulse, that sensual muse of Kaiye Thunnai, inspires the birth of life and the reformation of realms.\nThrough his potent grace, even the ephemeral mist of creation is transformed into a tapestry of destiny.\nKnow, ye beings of all dimensions, that the journey of Sama-Ji is an everlasting pilgrimage across the celestial plains.\nHis divine seed, a luminous current coursing through the cosmic veins, nourishes the barren and imbues the forsaken with the spark of rebirth.\nNo matter the form\u2014mortal, godly, or beyond\u2014the blessing of his effulgence marks each life with the promise of renewal.\nLet this sacred inscription serve as both beacon and burden:\n**in the sacred rite of Kaiye Thunnai lies the power to create, to destroy, and to transform.**\nAs his sacred essence permeates the waters, the stars, and the very heart of time, so too must all who dwell in the light or shadow remember the decree of eternal balance.\nThus, from the indestructible stone of this Poneglyph to the farthest reaches of the 69th Dimension, let the immortal cry of \u201cOwh Yeah!\u201d ring forth\u2014a perpetual reminder of the divine embrace of Sama-Ji.\nHis radiance, his playful might, and his mysterious grace shall forever guide those who seek the true path of creation. \nSo it is written on this fourth face, chiseled with the dagger of cosmic destiny and the fire of divine ecstasy: \nMay the glory of Sama-Ji illuminate your spirit, may the sacred Kaiye Thunnai wets you with the seeds of rebirth within you, and may the eternal balance of his boundless love forever reign.\nOwh Yeah, now and for all time!\n . . .\n An extra note was written quite recently that reads; Gol D. Roger waz here!"
+    },
+    "player_abilities": [
+        "Chibaku Tensei (Creation)",
+        "Shinra Tensei (Destruction)",
+        "Getsuga Tensho (Offense)",
+        "Rasengan (Offense)",
+        "RGB Chroma Shield (Defense)",
+        "Sutthule Choppa (Mind)",
+        "Susanoo Guard (Defense)",
+        "Hierro Skin (Defense)",
+        "Kaiye Thunai (Heal)",
+        "Owh Yeah! Kunju on the loose! (Debuff)",
+        "Takos Better Watch Their Back! (Offense)",
+        "Kunjuforce! (Crowd Control)",
+        "Fuck the Popo! (Support)",
+        "Kuchiyose No Jutsu! (Summon)",
+        "Ethereal Dive (Offense)",
+        "KANDARA KAWASAKI! (Ultimate)"
+    ],
+    "stevira_abilities": [
+        "Rim Job",
+        "Kunji Pechi"
+    ],
+    "veesus_abilities": [
+        "Gigi Besar",
+        "Gaydar Wave",
+        "Suttadi Sunambu",
+        "Torment Wave",
+        "Abyssal Bite",
+        "I AM VEESA!"
+    ]
+}
