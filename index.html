@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Sama-Ji Scrolls I: The Rise of Kunju</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="grid-container">
+        <header class="header">
+            <h1>The Sama-Ji Scrolls I: The Rise of Kunju</h1>
+            <nav id="menu-buttons">
+                <!-- Menu buttons will be dynamically added here -->
+            </nav>
+        </header>
+        <main class="main-viewport">
+            <img src="https://placehold.co/600x400" alt="Scene Image" id="scene-image">
+        </main>
+        <aside class="sidebar">
+            <div id="player-status">
+                <h2>Player Status</h2>
+                <p>HP: 100/100</p>
+                <p>Level: 1</p>
+            </div>
+            <div id="inventory">
+                <h2>Inventory</h2>
+                <ul id="inventory-list">
+                    <!-- Inventory items will be added here -->
+                </ul>
+            </div>
+            <div id="active-effects">
+                <h2>Active Effects</h2>
+                <ul id="effects-list">
+                    <!-- Active effects will be added here -->
+                </ul>
+            </div>
+        </aside>
+        <div class="terminal">
+            <div id="terminal-output"></div>
+        </div>
+        <div class="input-area">
+            <input type="text" id="command-input" placeholder="Enter command...">
+        </div>
+    </div>
+    <script type="module" src="game.js"></script>
+</body>
+</html>
