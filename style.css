@@ -12,10 +12,10 @@ body {
 .grid-container {
     display: grid;
     grid-template-areas:
-        'header header header'
-        'sidebar main-viewport main-viewport'
-        'sidebar terminal terminal'
-        'sidebar input-area input-area';
+        'header header'
+        'sidebar main-viewport'
+        'sidebar terminal'
+        'sidebar control-panel';
     grid-template-columns: 250px 1fr;
     grid-template-rows: auto 1fr auto auto;
     width: 1200px;
@@ -106,17 +106,95 @@ body {
     margin: 0 0 5px 0;
 }
 
-.input-area {
-    grid-area: input-area;
+.control-panel {
+    grid-area: control-panel;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: 10px;
     border-top: 2px solid #00ff00;
 }
 
-#command-input {
-    width: 100%;
-    background-color: #000;
+.d-pad {
+    display: grid;
+    grid-template-areas:
+        '. up .'
+        'left enter right'
+        '. down .';
+    gap: 5px;
+}
+
+.d-pad-btn {
+    background-color: #2a2a2a;
     border: 1px solid #00ff00;
     color: #00ff00;
-    padding: 5px;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    box-shadow: 0 0 5px #00ff00;
+}
+
+.d-pad-btn:hover {
+    background-color: #00ff00;
+    color: #0c0c0c;
+}
+
+.d-pad-btn.disabled {
+    background-color: #1a1a1a;
+    color: #555;
+    cursor: not-allowed;
+    box-shadow: none;
+}
+
+#d-pad-up { grid-area: up; }
+#d-pad-left { grid-area: left; }
+#d-pad-enter { grid-area: enter; }
+#d-pad-right { grid-area: right; }
+#d-pad-down { grid-area: down; }
+
+.action-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 10px;
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.action-btn {
+    background-color: #2a2a2a;
+    border: 1px solid #00ff00;
+    color: #00ff00;
+    padding: 10px;
+    cursor: pointer;
     font-family: inherit;
+    box-shadow: 0 0 5px #00ff00;
+    text-align: center;
+}
+
+.action-btn:hover {
+    background-color: #00ff00;
+    color: #0c0c0c;
+}
+
+.progress-bar-container {
+    width: 100%;
+    height: 30px;
+    border: 1px solid #00ff00;
+    background-color: #111;
+}
+
+#progress-bar {
+    width: 0%;
+    height: 100%;
+    background-color: #00ff00;
+}
+
+.memory-panel {
+    height: 100px;
+    background-color: #2a2a2a;
+}
+
+.memory-panel.highlight {
+    background-color: #00ff00;
 }
